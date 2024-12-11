@@ -46,7 +46,7 @@ franchise-management/
 
 1. Clonar el repositorio:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/JuanseSues/api-franchises
    cd franchise-management
    ```
 
