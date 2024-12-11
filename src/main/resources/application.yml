@@ -1,0 +1,11 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://jssuescungi:YQ2R7DdEZ8364HAK@franchises-api.9dibe.mongodb.net/franchises-api?retryWrites=true&w=majority
+  webflux:
+    base-path: /api
+
+logging:
+  level:
+    org.springframework.data.mongodb: DEBUG
+    com.franchise: DEBUG
