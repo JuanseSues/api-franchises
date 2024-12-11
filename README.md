@@ -42,6 +42,10 @@ franchise-management/
 
 ## Configuración y Ejecución
 
+Repositorio >GitHub
+
+https://github.com/JuanseSues/api-franchises
+
 ### Usando Docker (Recomendado)
 
 1. Clonar el repositorio:
